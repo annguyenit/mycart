@@ -1,0 +1,4 @@
+<?php
+// Text
+$_['text_footer'] = '<font color="Blue" ><a href="http://thucphamboibo.com"><b><font color="Blue" >ThucPhamBoiBo.com</font></b></a> <b>Hân hạnh được cung cấp phiên bản Tiếng Việt cho các bạn!</b><br />Tác giả: Nguyễn Trung Hòa</font><p><i><b><font color="red" >BẠN ĐANG CẦN:</font><br /> <font color="Green" >- 1 tên miền .COM MIỄN PHÍ?<br />- Hots - Nơi lưu trữ Website ỔN ĐỊNH?<br />- Host CHẤT LƯỢNG TỐT, GIÁ RẺ chỉ với 47.500đ/ tháng không giới hạn tất cả mọi thứ? => <font color="Blue" ><a href="http://www.justhost.com/track/hostchatluong"><b><font color="Blue" >THAM KHẢO TẠI ĐÂY</font></b></a><br /><b> + + + NHIỀU QUÀ TẶNG GIÁ TRỊ và HỖ TRỢ KHÁC vui lòng xem thêm file HƯỚNG DẪN CÀI ĐẶT trong thư mục Vietnamese-language-V2.0 hoặc:<br /> <b></font><font color="red" >Liên hệ:</font> <font color="Blue" >Điện thoại: 0918 957 282; Email: nguyentrunghoa@gmail.com hoặc Yahoo: hostchatluong để được hỗ trợ! </b></font>';
+?>
